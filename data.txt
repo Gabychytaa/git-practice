@@ -3,3 +3,6 @@ Age: 29
 Favorite Color: Purple
 
 git status
+
+git add data.txt
+git status
