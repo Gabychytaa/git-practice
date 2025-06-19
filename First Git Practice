@@ -7,3 +7,6 @@ git commit -m "Hello World"
 git push
 Username: your_username
 Password: your_token
+Name: Gaby
+Age: 29
+Favorite Color: Purple
