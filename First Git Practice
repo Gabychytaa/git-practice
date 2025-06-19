@@ -1,0 +1,7 @@
+git remote -v
+# to add all the changes that are made in the repo
+git add .
+
+git commit -m "Hello World"
+
+git push
