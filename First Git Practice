@@ -1,15 +1,15 @@
-git remote -v
-# to add all the changes that are made in the repo
-git add .
+mkdir git-practice
 
-git commit -m "Hello World"
+cd git-practice
 
-git push
-Username: your_username
-Password: your_token
+touch data.txt
+
+code .
+
 Name: Gaby
 Age: 29
 Favorite Color: Purple
-git remote add <alias> <github-url>
-git push [<alias>] [<remote-branch-name>]
-git pull [<alias>] [<remote-branch-name>]
+
+git init
+
+git --version
