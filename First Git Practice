@@ -13,3 +13,5 @@ Favorite Color: Purple
 git init
 
 git --version
+
+1s -a
