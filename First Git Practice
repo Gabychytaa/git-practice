@@ -10,3 +10,6 @@ Password: your_token
 Name: Gaby
 Age: 29
 Favorite Color: Purple
+git remote add <alias> <github-url>
+git push [<alias>] [<remote-branch-name>]
+git pull [<alias>] [<remote-branch-name>]
