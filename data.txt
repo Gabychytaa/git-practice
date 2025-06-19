@@ -1,3 +1,5 @@
 Name: Gaby Velasquez 
 Age: 29
 Favorite Color: Purple
+
+git status
